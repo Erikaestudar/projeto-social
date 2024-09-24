@@ -42,7 +42,7 @@ iframe#tela-home{
     border-radius: 3px;
 }
 
-section#redes-sociais div{
+section#redes-sociais {
     display: grid;
     justify-content: end;
 }
